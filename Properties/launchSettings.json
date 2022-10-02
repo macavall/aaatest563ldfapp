@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "aaatest563ldfapp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7266",
+      "environmentVariables": {
+        "delay": "15000"
+      }
+    }
+  }
+}
